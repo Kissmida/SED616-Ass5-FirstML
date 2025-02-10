@@ -16,7 +16,7 @@ else:
     st.error(f"模型文件未找到: {model_path}")
 
 # Streamlit UI
-st.title("My first ML App (Study on Imbalanced Data Classification)")
+st.title("My first ML App (Study on Imbalanced Data Classification by 66130701918)")
 
 # 输入特征
 features = []
